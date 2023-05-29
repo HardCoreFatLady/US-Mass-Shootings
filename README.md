@@ -1,6 +1,4 @@
-# US Mass Shootings Data Visualization Using Tableau
-
-# About this project:
+# Data Visualization of US Mass Shootings between 1982 to 2022 Using Tableau
 
 Since the Second Amendment to the Constitution of the United States guarantees the right
 of American citizens to bear arms, in the United States, citizens not only have the right to bear

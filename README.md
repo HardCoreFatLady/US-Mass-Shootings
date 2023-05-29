@@ -15,7 +15,7 @@ report, we firstly defined the problems we wanted to explore, then we used two d
 tools: Python and Tableau to help us achieve data preprocessing, data analysis and data
 visualization.
 
-# Problems definition:
+# Problems Definition:
 
    1. The overall trend of mass shooting incidents in America
    2. Numbers of total victims of mass shooting case in America
@@ -26,7 +26,7 @@ visualization.
     5.1 Workplace  5.2 School  5.3 Religious  5.4 Comparison and overview of three shooting-prone places
 		 
 
-# Data Visualization using Tableau: 
+# Data Visualization Using Tableau: 
 
 
 <img width="1258" alt="截屏2023-05-29 17 01 18" src="https://github.com/HardCoreFatLady/US-Mass-Shootings-Data-Visualization-Using-Tableau/assets/45972159/78ffebc9-a2d4-47d5-8ddb-f23fae9814ba">

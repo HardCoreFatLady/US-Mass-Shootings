@@ -15,6 +15,11 @@ report, we firstly defined the problems we wanted to explore, then we used two d
 tools: Python and Tableau to help us achieve data preprocessing, data analysis and data
 visualization.
 
+# Data source:
+The data was downloaded from kaggle, the link of the data source is as follows: 
+https://www.kaggle.com/datasets/zusmani/us-mass-shootings-last-50-years
+
+
 # Problems Definition:
 
    1. The overall trend of mass shooting incidents in America

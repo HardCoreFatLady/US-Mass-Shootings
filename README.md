@@ -34,10 +34,10 @@ https://www.kaggle.com/datasets/zusmani/us-mass-shootings-last-50-years
 # Data Visualization Using Tableau: 
 
 
-<img width="1263" alt="截屏2023-06-05 16 05 40" src="https://github.com/HardCoreFatLady/US-Mass-Shootings-Data-Visualization-Using-Tableau/assets/45972159/bd73fb9e-cceb-4d6b-87fa-73f1bdb997ad">
+<img width="1191" alt="截屏2023-06-05 18 09 19" src="https://github.com/HardCoreFatLady/US-Mass-Shootings-Data-Visualization-Using-Tableau/assets/45972159/1fc77648-0f00-4129-9360-09afb7191b69">
 
 
-<img width="992" alt="截屏2023-05-29 16 52 43" src="https://github.com/HardCoreFatLady/US-Mass-Shootings-Data-Visualization-Using-Tableau/assets/45972159/c9efbfba-babb-4704-8131-eac1ad740969">
+<img width="1017" alt="截屏2023-06-05 18 10 58" src="https://github.com/HardCoreFatLady/US-Mass-Shootings-Data-Visualization-Using-Tableau/assets/45972159/c651ad01-808e-4dbd-8838-d8522680ba7f">
 
 
 <img width="1249" alt="截屏2023-05-29 16 53 01" src="https://github.com/HardCoreFatLady/US-Mass-Shootings-Data-Visualization-Using-Tableau/assets/45972159/fb235e53-2d99-4235-839e-556f01179a49">
